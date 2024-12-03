@@ -1,3 +1,3 @@
 import calculator_new
 
-calculator_new.add(1,2)
+print(calculator_new.add(1,2))
